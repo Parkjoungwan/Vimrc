@@ -45,12 +45,12 @@ vimrc에 적혀있는 플러그인들이 자동으로 설치되는 모습을 볼
 내가 현재 사용하고 있는 플러그인들은 다음과 같다. 링크를 타고 들어가면 각 플러그인들의 설명이 있다.
 
 * 플러그인 링크
-'nanotech/jellybeans.vim' - https://github.com/nanotech/jellybeans.vim
-'majutsushi/tagbar' - https://github.com/majutsushi/tagbar
-'scrooloose/nerdtree' - https://github.com/scrooloose/nerdtree-git-plugin
-'nathanaelkane/vim-indent-guides' - https://github.com/nathanaelkane/vim-indent-guides
-'airblade/vim-gitgutter' - https://github.com/airblade/vim-gitgutter
-'tpope/vim-fugitive' - https://github.com/tpope/vim-fugitive
-'vim-airline/vim-airline' - https://github.com/vim-airline/vim-airline
-'vim-airline/vim-airline-themes' - https://github.com/vim-airline/vim-airline-themes
-'blueyed/vim-diminactive' - https://github.com/blueyed/vim-diminactive
+'nanotech/jellybeans.vim' - https://github.com/nanotech/jellybeans.vim  
+'majutsushi/tagbar' - https://github.com/majutsushi/tagbar  
+'scrooloose/nerdtree' - https://github.com/scrooloose/nerdtree-git-plugin  
+'nathanaelkane/vim-indent-guides' - https://github.com/nathanaelkane/vim-indent-guides  
+'airblade/vim-gitgutter' - https://github.com/airblade/vim-gitgutter  
+'tpope/vim-fugitive' - https://github.com/tpope/vim-fugitive  
+'vim-airline/vim-airline' - https://github.com/vim-airline/vim-airline  
+'vim-airline/vim-airline-themes' - https://github.com/vim-airline/vim-airline-themes  
+'blueyed/vim-diminactive' - https://github.com/blueyed/vim-diminactive  
