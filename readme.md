@@ -44,7 +44,7 @@ Vundle을 git에서 클론 했다면 vimrc 파일을 root폴더로 옮긴 후 vi
 vimrc에 적혀있는 플러그인들이 자동으로 설치되는 모습을 볼 수 있을 것이다.
 내가 현재 사용하고 있는 플러그인들은 다음과 같다. 링크를 타고 들어가면 각 플러그인들의 설명이 있다.
 
-* 플러그인 링크
+* 플러그인 링크  
 'nanotech/jellybeans.vim' - https://github.com/nanotech/jellybeans.vim  
 'majutsushi/tagbar' - https://github.com/majutsushi/tagbar  
 'scrooloose/nerdtree' - https://github.com/scrooloose/nerdtree-git-plugin  
