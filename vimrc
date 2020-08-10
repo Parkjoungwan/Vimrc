@@ -2,6 +2,8 @@ set shell=/bin/bash
 
 set rtp+=~/.vim/bundle/Vundle.vim
 
+set number
+
 call vundle#begin()
 
 Plugin 'gmarik/Vundle.vim'
@@ -41,7 +43,7 @@ nnoremap <leader>q :bp<CR>
 nnoremap <leader>w :bn<CR>
 
 " for blueyed/vim-diminactive
-let g:diminactive_enable_focus = 1
+let g:diminactive_enable_focus = 2
 
 syntax enable
 filetype indent on
