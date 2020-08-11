@@ -43,6 +43,8 @@ Vundle을 git에서 클론 했다면 vimrc 파일을 root폴더로 옮긴 후 vi
 
 vimrc에 적혀있는 플러그인들이 자동으로 설치되는 모습을 볼 수 있을 것이다.  
 내가 현재 사용하고 있는 플러그인들은 다음과 같다. 링크를 타고 들어가면 각 플러그인들의 설명이 있다.  
++tagbar같은 경우 사용하는 언어의 태그가 설치되어있어야한다. 나 같은 경우 C++로 요즘 알고리즘을 풀기 때문에 Ctags를 설치해야 했다.  
+Ctags 설치: https://danguria.tistory.com/207  
 
 * 플러그인 링크  
 'nanotech/jellybeans.vim' - https://github.com/nanotech/jellybeans.vim  
