@@ -30,7 +30,10 @@ Vim이라는 에디터는 개발자들이 사용하는 에디터 중 가장 오�
 
 그렇기에 Vim에 플러그인 설치하는 방법과 미리 세팅해 둔 Vimrc 파일로 쉽게 플러그인을 설치할 방법을 정리 해둔다.
 
-먼저 플러그인 관리용 플러그인 'Vundle' (bundle+vim인듯) 설치해야한다.  
+먼저 플러그인 관리용 플러그인 'Vundle' (bundle+vim인듯) 설치해야한다. 
+```
+$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
 튜토리얼은 다음을 참고했다.
 
 튜토리얼: https://nolboo.kim/blog/2016/09/20/vim-plugin-manager-vundle/
@@ -43,8 +46,11 @@ Vundle을 git에서 클론 했다면 vimrc 파일을 root폴더로 옮긴 후 vi
 
 vimrc에 적혀있는 플러그인들이 자동으로 설치되는 모습을 볼 수 있을 것이다.  
 내가 현재 사용하고 있는 플러그인들은 다음과 같다. 링크를 타고 들어가면 각 플러그인들의 설명이 있다.  
-+tagbar같은 경우 사용하는 언어의 태그가 설치되어있어야한다. 나 같은 경우 C++로 요즘 알고리즘을 풀기 때문에 Ctags를 설치해야 했다.  
-Ctags 설치: https://danguria.tistory.com/207  
++tagbar같은 경우 사용하는 언어의 태그가 설치되어있어야한다. 나 같은 경우 C++로 요즘 알고리즘을 풀기 때문에 Ctags를 설치해야 했다. 
+```
+$ sudo apt install ctags
+```
+Ctags 튜토리얼: https://danguria.tistory.com/207  
 
 부록(https://github.com/klange/nyancat)  
 
