@@ -46,6 +46,8 @@ vimrc에 적혀있는 플러그인들이 자동으로 설치되는 모습을 볼
 +tagbar같은 경우 사용하는 언어의 태그가 설치되어있어야한다. 나 같은 경우 C++로 요즘 알고리즘을 풀기 때문에 Ctags를 설치해야 했다.  
 Ctags 설치: https://danguria.tistory.com/207  
 
+부록(https://github.com/klange/nyancat)  
+
 * 플러그인 링크  
 'nanotech/jellybeans.vim' - https://github.com/nanotech/jellybeans.vim  
 'majutsushi/tagbar' - https://github.com/majutsushi/tagbar  
