@@ -1,7 +1,7 @@
 set shell=/bin/bash
-
+set autowrite
 set rtp+=~/.vim/bundle/Vundle.vim
-
+set backspace=indent,eol,start
 set number
 
 call vundle#begin()
@@ -16,7 +16,7 @@ Plugin 'tpope/vim-fugitive' " vim with git command(e.g., Gdiff)
 Plugin 'vim-airline/vim-airline' " vim status bar
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'blueyed/vim-diminactive'
-
+Plugin 'pbondoer/vim-42header'
 call vundle#end()
 
 set t_Co=256
