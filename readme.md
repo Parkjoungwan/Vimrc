@@ -32,7 +32,7 @@ Vim이라는 에디터는 개발자들이 사용하는 에디터 중 가장 오�
 
 먼저 플러그인 관리용 플러그인 'Vundle' (bundle+vim인듯) 설치해야한다. 
 ```
-$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 튜토리얼은 다음을 참고했다.
 
